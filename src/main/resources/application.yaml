@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: e-commerce-big-data-pipeline
